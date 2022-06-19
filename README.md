@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimb0xcf. You can call me Jimbo.
 - 👀 I’m interested in reading and painting.
-- 🌱 I’m currently learning Solidity and Python.
+- 🌱 I’m currently learning Solidity.
 - I'm living in Hsinchu, Taiwan.
 Nice to meet you!
 
